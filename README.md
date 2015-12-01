@@ -36,5 +36,5 @@ and thanks to powerful markdown compilers such as [pandoc](http://pandoc.org), i
 possible to generate full websites from markdown files. It is much easier to
 create content using markdown than using HTML. 
 
-Please [drop me a message](http://www.ceng.metu.edu.tr/~emre/), if you find TSPW
+Please [drop me a message](http://www.ceng.metu.edu.tr/~emre/) if you find TSPW
 useful and/or you use it in any way.
