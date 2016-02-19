@@ -11,8 +11,10 @@ webserver. I used TSPW to create my own
 
 To use TSPW, follow these steps: 
 
-1. Download/clone the repository, 
-2. Edit the markdown (`*.md`) files, 
+1. Make sure you have [pandoc](http://pandoc.org) installed. 
+1. Download/clone the repository (i.e. `git clone
+https://github.com/eakbas/TSPW.git`),  
+2. Create the content of your website by editing the markdown (`*.md`) files, 
 3. Run `make`.
 4. A `build/` directory will be created automatically for you. You can deploy
 (i.e. copy) the contents of this directory to your webserver, typically under
